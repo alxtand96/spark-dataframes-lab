@@ -4,6 +4,7 @@ Incluye aquí capturas o salidas relevantes del cuaderno.
 
 ## 1. Entorno levantado
 - Captura de JupyterLab
+  
 - Captura del Spark Master UI
 
 ## 2. Lectura de datos
